@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-09T00:28:19 EET" name="GoogleSuite" finished-at="2022-02-09T00:28:34 EET" duration-ms="14624">
+  <suite started-at="2022-02-09T00:37:20 EET" name="GoogleSuite" finished-at="2022-02-09T00:37:35 EET" duration-ms="14341">
     <groups>
     </groups>
-    <test started-at="2022-02-09T00:28:19 EET" name="HomePageTests" finished-at="2022-02-09T00:28:34 EET" duration-ms="14624">
+    <test started-at="2022-02-09T00:37:20 EET" name="HomePageTests" finished-at="2022-02-09T00:37:35 EET" duration-ms="14341">
       <class name="com.google.tests.GoogleTests">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:28:19 EET" name="setUp" finished-at="2022-02-09T00:28:27 EET" duration-ms="7952" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:37:20 EET" name="setUp" finished-at="2022-02-09T00:37:29 EET" duration-ms="8027" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:28:27 EET" name="goToHomePage" finished-at="2022-02-09T00:28:30 EET" duration-ms="2966" status="PASS">
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:37:29 EET" name="goToHomePage" finished-at="2022-02-09T00:37:32 EET" duration-ms="3626" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goToHomePage -->
-        <test-method signature="testGoogleLogoIsDisplayed()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:28:30 EET" name="testGoogleLogoIsDisplayed" finished-at="2022-02-09T00:28:30 EET" duration-ms="186" status="PASS">
+        <test-method signature="testGoogleLogoIsDisplayed()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:37:32 EET" name="testGoogleLogoIsDisplayed" finished-at="2022-02-09T00:37:32 EET" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGoogleLogoIsDisplayed -->
-        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:28:30 EET" name="goToHomePage" finished-at="2022-02-09T00:28:32 EET" duration-ms="1274" status="PASS">
+        <test-method is-config="true" signature="goToHomePage()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:37:32 EET" name="goToHomePage" finished-at="2022-02-09T00:37:33 EET" duration-ms="964" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goToHomePage -->
-        <test-method signature="testGoogleTitle()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:28:32 EET" name="testGoogleTitle" finished-at="2022-02-09T00:28:32 EET" duration-ms="13" status="PASS">
+        <test-method signature="testGoogleTitle()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:37:33 EET" name="testGoogleTitle" finished-at="2022-02-09T00:37:33 EET" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGoogleTitle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:28:32 EET" name="tearDown" finished-at="2022-02-09T00:28:34 EET" duration-ms="2176" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.google.tests.GoogleTests@5ef60048]" started-at="2022-02-09T00:37:33 EET" name="tearDown" finished-at="2022-02-09T00:37:35 EET" duration-ms="1508" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
