@@ -23,11 +23,12 @@ public class GoogleTests {
     @BeforeTest
     public void setUp() {
         WebDriverManager.firefoxdriver().setup();
-      /*  FirefoxOptions firefoxOptions = new FirefoxOptions();
-        firefoxOptions.addArguments("--headless");
-        driver = new FirefoxDriver(firefoxOptions);*/
 
-        driver= new FirefoxDriver();
+        FirefoxOptions firefoxOptions = new FirefoxOptions();
+        firefoxOptions.addArguments("--headless");
+        driver = new FirefoxDriver(firefoxOptions);
+
+
         driver.manage().window().maximize();
     }
 
